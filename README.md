@@ -8,6 +8,8 @@ CSSOff is a competition for front-end developers to show off their skills in a n
 
 The requirements were to match a comp design (Photoshop or Fireworks) and make it animated, responsive, compatible with legacy browsers including IE7 and IE6 as a bonus, being it as lightweight as possible and with W3C 100% valid code. Impossible? Almost :) 
 
+## [See my sumbission](https://verlok.github.io/cssOff2012/)
+
 ## My results
 
 In the early 2012 edition, I landed 3rd out of 400+ world competitors!
